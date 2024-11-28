@@ -58,7 +58,8 @@ form button:hover {
 
 .producto img {
   max-width: 100%;
-  border-radius: 8px;
+  height: 320px; /* Fija la altura de la imagen a 320 píxeles */
+  border-radius: 8px; /* Opcional: define el radio de los bordes de la imagen */
 }
 
 .producto h2 {
