@@ -99,3 +99,15 @@ body {
   border: 1px solid #ccc;
   border-radius: 4px;
 }
+
+/* Media Query para pantallas pequeñas (móviles) */
+@media (max-width: 600px) {
+  .galeria {
+    grid-template-columns: repeat(2, 1fr); /* 2 columnas en móviles */
+  }
+
+  .producto img {
+    width: 150px; /* Tamaño ajustado para las imágenes en móviles */
+    height: 150px; /* Tamaño ajustado para las imágenes en móviles */
+  }
+}
