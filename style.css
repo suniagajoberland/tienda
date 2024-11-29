@@ -121,11 +121,11 @@ body {
   border: 1px solid #ccc;
   border-radius: 4px;
 }
-
-/* Media Query para pantallas pequeñas (móviles) */
+/* 
 @media (max-width: 600px) {
   .galeria {
-    grid-template-columns: repeat(2, 1fr); /* 2 columnas en móviles */
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 10px;
   }
 
   .producto {
@@ -134,7 +134,8 @@ body {
   }
 
   .producto img {
-    width: 200px; /* Tamaño ajustado para las imágenes en móviles */
-    height: 200px; /* Tamaño ajustado para las imágenes en móviles */
+    width: 200px; 
+    height: 200px;
   }
-}
+} 
+*/
