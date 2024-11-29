@@ -61,9 +61,16 @@ document.addEventListener("DOMContentLoaded", () => {
         "UPS WIREPLUS PANTALLA SMART 750VA/380W BAT 1X12V-7AMP120VAC 50/60HZ WP-750VA",
       descripcion:
         "https://www.grupo-plus.com/shop/wp-750va-ups-wireplus-pantalla-smart-750va-380w-bat-1x12v-7amp-120vac-50-60hz-30401#attr=5897",
-      costo: 215,
+      costo: 78,
       imagen:
         "Assets/UPS Interactivo 750VA 380W con Pantalla LCD 120V [4] Tomas.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "CABLE UTP CAT5 305M 70/30 PARA EXTERIOR BEGPROD - UTP5EX",
+      descripcion:
+        "https://securitysolution.shop/products/bobina-cable-utp-cat5e-70-30-para-exterior-utp300ex?srsltid=AfmBOoo6FOHcad81V7NZYseg9he6WGatc691NJsrJDZbSoVBwTYhDPSo",
+      costo: 54,
+      imagen: "Assets/CABLE UTP CAT5 305M PARA EXTERIOR BEGPROD.webp", // Ruta de la imagen en la carpeta 'images'
     },
     // Añade más productos según sea necesario
   ];
