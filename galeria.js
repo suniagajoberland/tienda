@@ -72,6 +72,134 @@ document.addEventListener("DOMContentLoaded", () => {
       costo: 54,
       imagen: "Assets/CABLE UTP CAT5 305M PARA EXTERIOR BEGPROD.webp", // Ruta de la imagen en la carpeta 'images'
     },
+    {
+      nombre: " Reflector de 50w IP66 Littman",
+      descripcion:
+        " https://mundoferta.com/reflector-led/1368-reflector-led-50w-cet-ip66-littman.html ",
+      costo: 12,
+      imagen: "Assets/50w littman.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Reflector de 100w IP66 Littman",
+      descripcion:
+        " https://mundoferta.com/reflector-led/1390-reflector-led-100w-cet-ip66-littman.html ",
+      costo: 18,
+      imagen: "Assets/100w littman.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: " Reflector de 150w IP66 Littman",
+      descripcion:
+        "https://mundoferta.com/reflector-led/1499-reflector-led-150w-cet-ip66-littman.html ",
+      costo: 22,
+      imagen: "Assets/150w littman.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Reflector de 200w IP66 Littman",
+      descripcion:
+        "https://mundoferta.com/reflector-led/1454-reflector-led-100w-cet-ip66-littman.html ",
+      costo: 34,
+      imagen: "Assets/200w littman.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: " Reflector de 300w IP66 Littman",
+      descripcion: "",
+      costo: 42,
+      imagen: "Assets/300w littman.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: " Reflector de 400w IP66 Littman",
+      descripcion: "",
+      costo: 51,
+      imagen: "Assets/400w littman.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: " Reflector Tg09 2.0 200w Ip65 HAMMER",
+      descripcion:
+        "https://electronica.com.ve/200w/3568-reflector-led-200w-cob-tg09-6500k-ip65-h.html ",
+      costo: 78,
+      imagen: "Assets/200w hammer.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: " Aceite Semisintetico Multigrado Sae 20w50 ",
+      descripcion:
+        "https://212global.com/product/aceite-semi-sintetico-multigrado-hammer-automotriz-sae-20w50-green-pro-0-946lts/?srsltid=AfmBOooyb3SpW1fuNIYLo26mcpqQ4WHsKBX7L_zdeWs5SzhiZWHPsT-R ",
+      costo: 8,
+      imagen: "Assets/Aceite Semisintetico .jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: " Reflector Led 400w Con Tecnologia Dob 6500k Ip65 Littman",
+      descripcion: "",
+      costo: 90,
+      imagen: "Assets/400w littman full.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: " Reflector Tg09 2.0 300w Ip65 / Hammer",
+      descripcion:
+        " https://212global.com/product/reflector-led-hammer-electronic-tg09-2-0-300w-85-277v-65k-100lxw-ip65/?srsltid=AfmBOoqzv3nu00mRQS-m8KRa8TVa4eIL9pV7MY67u53T6WRb8i4xcJSA ",
+      costo: 100,
+      imagen: "Assets/300w hammer.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Router Dahua Ax1500 Wifi 6 Doble Banda Dh-ax15m",
+      descripcion:
+        " https://www.dahuasecurity.com/la/products/All-Products/Transmission/IT-Channel-Products/Wireless-Router/AX15M ",
+      costo: 40,
+      imagen: "Assets/router dahua.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: " Access Point Tplink Eap 225-outdoor Ac1200",
+      descripcion:
+        " https://www.tp-link.com/es/business-networking/outdoor-ap/eap225-outdoor/ ",
+      costo: 138,
+      imagen: "Assets/eap225 outdoor.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: " Etiquetadora Rhino Pro5200",
+      descripcion:
+        " https://www.impormel.com/producto/etiquetadora-dymo-rhino-industrial-5200-label-maker-5-lines-6-1-10w-x-11-2-9d-x-3-1-2h/?srsltid=AfmBOor5gsg1Npi6PUL3-TqhLHWbEghLdSL8o_6INj162SNzdjXXHI7u ",
+      costo: 18,
+      imagen: "Assets/Etiquetadora .jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Reflector Led 1000w Con Tecnologia Dob 6500k Ip65 Littman",
+      descripcion:
+        "https://electronica.com.ve/1000w/3773-reflector-led-1000w-led-cob-tg09-6500k-i.html ",
+      costo: 295,
+      imagen: "Assets/1000va littman.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Cable Utp Cat 5 305 Mts Bobina begprod",
+      descripcion:
+        " https://ssdigital.com.ve/ve/redes-computacion-telecomunicaciones/139-cable-utp-begprod-cat-5e-exterior-305mts.html?srsltid=AfmBOorg8wxbgI5VmZTnqoEZYDiJXjT5IidAkufm6EkEwdFUhQQ6lqkh ",
+      costo: 54,
+      imagen: "Assets/utp5 begprod.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Bombillo H4 Led Rally Hl6000k 40w 10.000 Lm Hammer",
+      descripcion:
+        " https://212global.com/product/bombillo-led-h4-hl-hammer-automotriz-scuderia-rally-10000lm-40w-6000k/?srsltid=AfmBOorv3uhs5Py_WLCCsOeYupX0ngmFyyDFxsk44ltM3NsXO02HzEJT ",
+      costo: 42,
+      imagen: "Assets/Bombillo H4 Led Rally .jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: " Aceite Semisintetico Multigrado Sae 15w40 Hammer",
+      descripcion: "",
+      costo: 8,
+      imagen: "Assets/Aceite Semisintetico .jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Reflector Raptor 200w Ip66/ Aluminio + Glass Hammer",
+      descripcion:
+        " https://electronica.com.ve/200w/5966-reflector-led-raptor-200w-6500k-hammer.html ",
+      costo: 72,
+      imagen: "Assets/Raptor 200w .jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "",
+      descripcion: "",
+      costo: 18,
+      imagen: "", // Ruta de la imagen en la carpeta 'images'
+    },
     // Añade más productos según sea necesario
   ];
 
