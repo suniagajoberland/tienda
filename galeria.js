@@ -248,18 +248,12 @@ document.addEventListener("DOMContentLoaded", () => {
       costo: 98,
       imagen: "Assets/300w alum.jpg", // Ruta de la imagen en la carpeta 'images'
     },
-    {
+/*     {
       nombre: "",
       descripcion: "",
       costo: 18,
       imagen: "", // Ruta de la imagen en la carpeta 'images'
-    },
-    {
-      nombre: "",
-      descripcion: "",
-      costo: 18,
-      imagen: "", // Ruta de la imagen en la carpeta 'images'
-    },
+    }, */
     // Añade más productos según sea necesario
   ];
 
