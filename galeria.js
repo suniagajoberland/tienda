@@ -195,6 +195,66 @@ document.addEventListener("DOMContentLoaded", () => {
       imagen: "Assets/Raptor 200w .jpg", // Ruta de la imagen en la carpeta 'images'
     },
     {
+      nombre:
+        " Luminaria Superficial Aurora/60w/60cm/cct Multitono Blanca Hammer",
+      descripcion:
+        "https://www.cabsagt.com/luminaria-circular-aurora-60w-acabado-blanco-kelvin-seleccionable-construlita-re8066bcca/?srsltid=AfmBOoqsawnzY17Vr2_MjzbT8fuMa9H7XUnueYH-D2YLTzIdcPIyAw7m ",
+      costo: 85,
+      imagen: "Assets/60w hammer.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre:
+        "Luminaria Superficial Aurora/60w/60cm/cct Multitono Negra Hammer",
+      descripcion:
+        " https://212global.com/product/lampara-superficial-hammer-electronic-aurora-60w-60cm-multitono-3200k-4000k-6500k-85-277v-100lm/ ",
+      costo: 85,
+      imagen: "Assets/60w hammer negra.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Lámpara Led Campana Ufo 200w",
+      descripcion:
+        "Link del fabricante: https://www.amazon.es/5700k-6500k-Industrial-Interior-Exterior-Luminosidad/dp/B079RVH54N ",
+      costo: 50,
+      imagen: "Assets/200w ufo.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Bombillos Led H4 52.000 Lm Miami Escudería 6500k Hammer",
+      descripcion: "",
+      costo: 145,
+      imagen: "Assets/Bombillos Led H4 52.000 Lm.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: " Reflector Led 600w Con Tecnologia Dob 6500k Ip65 Littman",
+      descripcion: "",
+      costo: 130,
+      imagen: "Assets/600w littman.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Reflector Tg09 2.0 600w Ip65 / Hammer",
+      descripcion:
+        ":https://electronica.com.ve/600w/1251-reflector-led-600w-led-cob-tg09-6500k-ip.html ",
+      costo: 185,
+      imagen: "Assets/Reflector Tg09 2.0 600w .jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Reflector Truck 2.0 1000w Ip66 / Hammer",
+      descripcion: " https://electrologia.com/product.php?productid=17707 ",
+      costo: 499,
+      imagen: "Assets/1000w.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Reflector Raptor 300w Ip66/ Aluminio + Glass Hammer",
+      descripcion: "",
+      costo: 98,
+      imagen: "Assets/300w alum.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "",
+      descripcion: "",
+      costo: 18,
+      imagen: "", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
       nombre: "",
       descripcion: "",
       costo: 18,
