@@ -4,12 +4,12 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Datos de productos ingresados manualmente con imágenes referenciadas desde la carpeta 'images'
   const productos = [
-    /* {
+    {
       nombre: "Watch Onn Google TV 4k",
       descripcion: "https://example.com/ficha-tecnica-producto-1",
       costo: 35,
       imagen: "Assets/Watchonn4k.jpg", // Ruta de la imagen en la carpeta 'images'
-    }, */
+    },
     {
       nombre: "Watch Onn Google TV 2k",
       descripcion:
@@ -248,7 +248,7 @@ document.addEventListener("DOMContentLoaded", () => {
       costo: 98,
       imagen: "Assets/300w alum.jpg", // Ruta de la imagen en la carpeta 'images'
     },
-/*     {
+    /*     {
       nombre: "",
       descripcion: "",
       costo: 18,
@@ -286,7 +286,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const contactarWhatsApp = (nombreProducto) => {
     const telefono = "+584143693311"; // Reemplaza con el número de WhatsApp de tu empresa
     const mensaje = encodeURIComponent(
-      `Hola Rafael, estoy interesado en el producto: ${nombreProducto}`
+      `Hola Joberland Suniaga, estoy interesado en el producto: ${nombreProducto}`
     );
     const url = `https://wa.me/${telefono}?text=${mensaje}`;
     window.open(url, "_blank");
