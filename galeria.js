@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       nombre: "Watch Onn Google TV 4k",
       descripcion: "https://example.com/ficha-tecnica-producto-1",
-      costo: 35,
+      costo: 40,
       imagen: "Assets/Watchonn4k.jpg", // Ruta de la imagen en la carpeta 'images'
     },
     {
