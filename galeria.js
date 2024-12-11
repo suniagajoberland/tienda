@@ -7,16 +7,16 @@ document.addEventListener("DOMContentLoaded", () => {
     {
       nombre: "Watch Onn Google TV 4k",
       descripcion: "https://example.com/ficha-tecnica-producto-1",
-      costo: 35,
+      costo: 40,
       imagen: "Assets/Watchonn4k.jpg", // Ruta de la imagen en la carpeta 'images'
     },
-    {
+    /* {
       nombre: "Watch Onn Google TV 2k",
       descripcion:
         "https://www.amazon.com/-/es/Streaming-adaptador-corriente-Chromecast-incorporado/dp/B0B61V76X1",
       costo: 30,
       imagen: "Assets/Watchonn2k.jpg", // Ruta de la imagen en la carpeta 'images'
-    },
+    }, */
     {
       nombre: "Wireplus - Mini UPS 21w 2200Mahx4",
       descripcion:
@@ -120,13 +120,6 @@ document.addEventListener("DOMContentLoaded", () => {
       imagen: "Assets/200w hammer.jpg", // Ruta de la imagen en la carpeta 'images'
     },
     {
-      nombre: " Aceite Semisintetico Multigrado Sae 20w50 ",
-      descripcion:
-        "https://212global.com/product/aceite-semi-sintetico-multigrado-hammer-automotriz-sae-20w50-green-pro-0-946lts/?srsltid=AfmBOooyb3SpW1fuNIYLo26mcpqQ4WHsKBX7L_zdeWs5SzhiZWHPsT-R ",
-      costo: 8,
-      imagen: "Assets/Aceite Semisintetico .jpg", // Ruta de la imagen en la carpeta 'images'
-    },
-    {
       nombre: " Reflector Led 400w Con Tecnologia Dob 6500k Ip65 Littman",
       descripcion: "",
       costo: 90,
@@ -180,12 +173,6 @@ document.addEventListener("DOMContentLoaded", () => {
         " https://212global.com/product/bombillo-led-h4-hl-hammer-automotriz-scuderia-rally-10000lm-40w-6000k/?srsltid=AfmBOorv3uhs5Py_WLCCsOeYupX0ngmFyyDFxsk44ltM3NsXO02HzEJT ",
       costo: 42,
       imagen: "Assets/Bombillo H4 Led Rally .jpg", // Ruta de la imagen en la carpeta 'images'
-    },
-    {
-      nombre: " Aceite Semisintetico Multigrado Sae 15w40 Hammer",
-      descripcion: "",
-      costo: 8,
-      imagen: "Assets/Aceite Semisintetico .jpg", // Ruta de la imagen en la carpeta 'images'
     },
     {
       nombre: "Reflector Raptor 200w Ip66/ Aluminio + Glass Hammer",
