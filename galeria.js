@@ -150,7 +150,7 @@ document.addEventListener("DOMContentLoaded", () => {
       nombre: " Etiquetadora Rhino Pro5200",
       descripcion:
         " https://www.impormel.com/producto/etiquetadora-dymo-rhino-industrial-5200-label-maker-5-lines-6-1-10w-x-11-2-9d-x-3-1-2h/?srsltid=AfmBOor5gsg1Npi6PUL3-TqhLHWbEghLdSL8o_6INj162SNzdjXXHI7u ",
-      costo: 18,
+      costo: 400,
       imagen: "Assets/Etiquetadora .jpg", // Ruta de la imagen en la carpeta 'images'
     },
     {
@@ -235,12 +235,60 @@ document.addEventListener("DOMContentLoaded", () => {
       costo: 98,
       imagen: "Assets/300w alum.jpg", // Ruta de la imagen en la carpeta 'images'
     },
-    /*     {
+    {
+      nombre: "Cable Utp Panduit Cat6 100% Cob Ind 305m Azul",
+      descripcion: "",
+      costo: 200,
+      imagen: "Assets/panduit.webp", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Protector De Voltaje Neveras Y Refrigeradores Digitales 120v",
+      descripcion:
+        "https://lumistar.com.ve/productos/ptv002-protector-de-voltaje-ideal-para-neveras-y-refrigeradores-digitales-3-anos-de-garantia/",
+      costo: 12.62,
+      imagen: "Assets/nevera.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: " Protector De Voltaje Equipos Electrónicos /audio, Video Y Tv",
+      descripcion:
+        "https://lumistar.com.ve/productos/ptv005-protector-de-voltaje/",
+      costo: 15.52,
+      imagen: "Assets/electronico.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: " Protector De Voltaje Televisores 120v 15amp",
+      descripcion:
+        "https://lumistar.com.ve/productos/ptv006-protector-de-voltaje/",
+      costo: 15.52,
+      imagen: "Assets/tv.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: " Protector De Voltaje Neveras Y Refrigeradores 120v 15amp",
+      descripcion:
+        "https://lumistar.com.ve/productos/ptv001-protector-de-voltaje-ideal-para-neveras-y-refrigeradores-3-anos-de-garantia/",
+      costo: 12.22,
+      imagen: "Assets/neveraN.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Protector De Voltaje A/acond. Y Refrigeracion 110v 20amp",
+      descripcion:
+        "https://lumistar.com.ve/productos/ptv007-protector-de-voltaje-110-volts/",
+      costo: 17,
+      imagen: "Assets/a.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
+      nombre: "Protector De Voltaje A/acond. Y Refrigeracion 220v 20amp",
+      descripcion:
+        "https://lumistar.com.ve/productos/ptv008-protector-de-voltaje-220-volts/",
+      costo: 17,
+      imagen: "Assets/aa220.jpg", // Ruta de la imagen en la carpeta 'images'
+    },
+    {
       nombre: "",
       descripcion: "",
-      costo: 18,
+      costo: 200,
       imagen: "", // Ruta de la imagen en la carpeta 'images'
-    }, */
+    },
     // Añade más productos según sea necesario
   ];
 
