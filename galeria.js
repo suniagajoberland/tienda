@@ -237,7 +237,7 @@ document.addEventListener("DOMContentLoaded", () => {
     },
     {
       nombre: "Cable Utp Panduit Cat6 100% Cob Ind 305m Azul",
-      descripcion: "",
+      descripcion: "https://www.panduit.com/content/dam/panduit/en/products/media/7/17/417/6417/90376417.pdf",
       costo: 200,
       imagen: "Assets/panduit.webp", // Ruta de la imagen en la carpeta 'images'
     },
@@ -283,12 +283,12 @@ document.addEventListener("DOMContentLoaded", () => {
       costo: 17,
       imagen: "Assets/aa220.jpg", // Ruta de la imagen en la carpeta 'images'
     },
-    {
+/*     {
       nombre: "",
       descripcion: "",
       costo: 200,
       imagen: "", // Ruta de la imagen en la carpeta 'images'
-    },
+    }, */
     // Añade más productos según sea necesario
   ];
 
